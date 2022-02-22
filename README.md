@@ -1,3 +1,12 @@
+Project OverView:
+Before Settlement Network b/w Person
+![BeforeSettlement](https://user-images.githubusercontent.com/74294349/155085414-faf29aca-3733-468a-980c-87fbdb2128fb.png)
+
+
+After Settlement Using SplitWiseAlgorithm implementation
+![AfterSettlement](https://user-images.githubusercontent.com/74294349/155085585-5da44683-328e-4479-acf0-3bbdc27be2e3.png)
+
+
 
 Link of Project:https://splitwisewepapp.web.app/
 
